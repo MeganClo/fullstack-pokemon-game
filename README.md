@@ -7,7 +7,7 @@ First time players will sign up with their name, email, and a password. They wil
 
 Players are able to review stats of "free agent" pokemon to draft and claim them for their Pokémon team. Data comes from the PokéAPI and the team a user builds is stored for future use and play. 
 
-In later-stage development efforts, this game will hav elogic closer to resembling a fantasy football draft logic, where players take turns selecting the best Pokémon.
+In later-stage development efforts, this game will have logic closer to resembling a fantasy football draft logic, where players take turns selecting the best Pokémon.
 ![Frame 92](https://user-images.githubusercontent.com/77648727/118071368-7ec2f080-b35c-11eb-870d-9a0a713b0141.png)
 
 ## Built With & Using 🧰
